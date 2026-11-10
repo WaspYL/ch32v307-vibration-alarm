@@ -111,6 +111,11 @@ ax,ay,az,diff,level\n
 | diff | 滤波后的震动强度 | 0–1000+ |
 | level | 当前等级 | 0 安全 / 1 轻微 / 2 防盗 / 3 地震 |
 
+## commit
+
+ -<img width="1561" height="1329" alt="image" src="https://github.com/user-attachments/assets/63c0f979-2b51-4656-b66f-20804077943f" />
+
+
 ## 团队
 
 - 团队：信号捕手
